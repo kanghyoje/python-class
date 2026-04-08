@@ -1,0 +1,7 @@
+print("안녕하세요.")
+name = input("이름이 뭐예요?")
+print(name, "님 반가워요.")
+age = int(input("몇 살이에요?"))
+print("10년 뒤에는", age+10,"살이 되는군요.")
+food = input("가장 좋아하는 음식은 무엇인가요?")
+print("저도", food, "아주 좋아해요.")
