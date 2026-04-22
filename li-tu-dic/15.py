@@ -1,0 +1,5 @@
+a = input().split()
+print(list(a))
+print(tuple(a))
+print(set(a))
+print({word: 0 for word in a})
